@@ -1,7 +1,7 @@
 # aulaGit
-*teste
+* teste
 
-*teste2
+* teste2
 
-*TESTE3
+* TESTE3
 
