@@ -1,0 +1,7 @@
+# aulaGit
+*teste
+
+*teste2
+
+*TESTE3
+
